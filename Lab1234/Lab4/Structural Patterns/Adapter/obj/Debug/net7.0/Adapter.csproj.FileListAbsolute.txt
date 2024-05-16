@@ -1,0 +1,14 @@
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Adapter/bin/Debug/net7.0/Adapter
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Adapter/bin/Debug/net7.0/Adapter.deps.json
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Adapter/bin/Debug/net7.0/Adapter.runtimeconfig.json
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Adapter/bin/Debug/net7.0/Adapter.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Adapter/bin/Debug/net7.0/Adapter.pdb
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Adapter/obj/Debug/net7.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Adapter/obj/Debug/net7.0/Adapter.AssemblyInfoInputs.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Adapter/obj/Debug/net7.0/Adapter.AssemblyInfo.cs
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Adapter/obj/Debug/net7.0/Adapter.csproj.CoreCompileInputs.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Adapter/obj/Debug/net7.0/Adapter.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Adapter/obj/Debug/net7.0/refint/Adapter.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Adapter/obj/Debug/net7.0/Adapter.pdb
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Adapter/obj/Debug/net7.0/Adapter.genruntimeconfig.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Adapter/obj/Debug/net7.0/ref/Adapter.dll

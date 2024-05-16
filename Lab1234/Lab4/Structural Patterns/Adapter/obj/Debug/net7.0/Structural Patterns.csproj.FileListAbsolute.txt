@@ -1,0 +1,14 @@
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Structural Patterns/bin/Debug/net7.0/Structural Patterns
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Structural Patterns/bin/Debug/net7.0/Structural Patterns.deps.json
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Structural Patterns/bin/Debug/net7.0/Structural Patterns.runtimeconfig.json
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Structural Patterns/bin/Debug/net7.0/Structural Patterns.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Structural Patterns/bin/Debug/net7.0/Structural Patterns.pdb
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Structural Patterns/obj/Debug/net7.0/Structural Patterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Structural Patterns/obj/Debug/net7.0/Structural Patterns.AssemblyInfoInputs.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Structural Patterns/obj/Debug/net7.0/Structural Patterns.AssemblyInfo.cs
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Structural Patterns/obj/Debug/net7.0/Structural Patterns.csproj.CoreCompileInputs.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Structural Patterns/obj/Debug/net7.0/Structural Patterns.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Structural Patterns/obj/Debug/net7.0/refint/Structural Patterns.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Structural Patterns/obj/Debug/net7.0/Structural Patterns.pdb
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Structural Patterns/obj/Debug/net7.0/Structural Patterns.genruntimeconfig.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Structural Patterns/obj/Debug/net7.0/ref/Structural Patterns.dll

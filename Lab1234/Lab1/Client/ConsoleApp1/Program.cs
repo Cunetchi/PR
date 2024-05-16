@@ -7,12 +7,12 @@ IPAddress serverIp = IPAddress.Parse("127.0.0.1");
 int serverPort = 9001;
 
 Thread.Sleep(3000);
-
+Socket client = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+client.Connect(new IPEndPoint(serverIp, serverPort));
+Console.WriteLine("Connected to server");
 while (true)
 {
-    Socket client = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-    client.Connect(new IPEndPoint(serverIp, serverPort));
-    Console.WriteLine("Connected to server");
+    
     
     Console.WriteLine("Enter some text to send to server");
     string text = Console.ReadLine() ?? "";
@@ -32,7 +32,5 @@ while (true)
     } while (client.Available > 0);
 
     Console.WriteLine($"Server: {receivedText}\n");
-
-    client.Shutdown(SocketShutdown.Both);
-    client.Close();
+    
 }

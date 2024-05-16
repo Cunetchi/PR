@@ -1,0 +1,15 @@
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab2/udpSocket2/udpSocket2/bin/Debug/net7.0/udpSocket2
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab2/udpSocket2/udpSocket2/bin/Debug/net7.0/udpSocket2.deps.json
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab2/udpSocket2/udpSocket2/bin/Debug/net7.0/udpSocket2.runtimeconfig.json
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab2/udpSocket2/udpSocket2/bin/Debug/net7.0/udpSocket2.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab2/udpSocket2/udpSocket2/bin/Debug/net7.0/udpSocket2.pdb
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab2/udpSocket2/udpSocket2/obj/Debug/net7.0/udpSocket2.csproj.AssemblyReference.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab2/udpSocket2/udpSocket2/obj/Debug/net7.0/udpSocket2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab2/udpSocket2/udpSocket2/obj/Debug/net7.0/udpSocket2.AssemblyInfoInputs.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab2/udpSocket2/udpSocket2/obj/Debug/net7.0/udpSocket2.AssemblyInfo.cs
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab2/udpSocket2/udpSocket2/obj/Debug/net7.0/udpSocket2.csproj.CoreCompileInputs.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab2/udpSocket2/udpSocket2/obj/Debug/net7.0/udpSocket2.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab2/udpSocket2/udpSocket2/obj/Debug/net7.0/refint/udpSocket2.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab2/udpSocket2/udpSocket2/obj/Debug/net7.0/udpSocket2.pdb
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab2/udpSocket2/udpSocket2/obj/Debug/net7.0/udpSocket2.genruntimeconfig.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab2/udpSocket2/udpSocket2/obj/Debug/net7.0/ref/udpSocket2.dll

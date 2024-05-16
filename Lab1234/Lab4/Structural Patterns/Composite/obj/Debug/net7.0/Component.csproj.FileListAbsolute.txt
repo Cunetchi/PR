@@ -1,0 +1,14 @@
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Component/bin/Debug/net7.0/Component
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Component/bin/Debug/net7.0/Component.deps.json
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Component/bin/Debug/net7.0/Component.runtimeconfig.json
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Component/bin/Debug/net7.0/Component.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Component/bin/Debug/net7.0/Component.pdb
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Component/obj/Debug/net7.0/Component.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Component/obj/Debug/net7.0/Component.AssemblyInfoInputs.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Component/obj/Debug/net7.0/Component.AssemblyInfo.cs
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Component/obj/Debug/net7.0/Component.csproj.CoreCompileInputs.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Component/obj/Debug/net7.0/Component.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Component/obj/Debug/net7.0/refint/Component.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Component/obj/Debug/net7.0/Component.pdb
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Component/obj/Debug/net7.0/Component.genruntimeconfig.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Component/obj/Debug/net7.0/ref/Component.dll

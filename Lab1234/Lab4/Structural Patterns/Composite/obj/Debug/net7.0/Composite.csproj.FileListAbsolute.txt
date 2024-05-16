@@ -1,0 +1,14 @@
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Composite/bin/Debug/net7.0/Composite
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Composite/bin/Debug/net7.0/Composite.deps.json
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Composite/bin/Debug/net7.0/Composite.runtimeconfig.json
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Composite/bin/Debug/net7.0/Composite.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Composite/bin/Debug/net7.0/Composite.pdb
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Composite/obj/Debug/net7.0/Composite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Composite/obj/Debug/net7.0/Composite.AssemblyInfoInputs.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Composite/obj/Debug/net7.0/Composite.AssemblyInfo.cs
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Composite/obj/Debug/net7.0/Composite.csproj.CoreCompileInputs.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Composite/obj/Debug/net7.0/Composite.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Composite/obj/Debug/net7.0/refint/Composite.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Composite/obj/Debug/net7.0/Composite.pdb
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Composite/obj/Debug/net7.0/Composite.genruntimeconfig.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Composite/obj/Debug/net7.0/ref/Composite.dll

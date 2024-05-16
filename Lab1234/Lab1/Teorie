@@ -1,0 +1,21 @@
+Înțeles, să discutăm teoria asociată cu fiecare punct:
+
+1. Crearea unui socket:
+   - Un socket este un canal de comunicare între două mașini sau între procese pe aceeași mașină. Există două tipuri principale de socket-uri: socket-uri de flux (cum ar fi TCP) și socket-uri datagram (cum ar fi UDP). Socket-urile TCP oferă o conexiune fiabilă, în timp ce socket-urile UDP oferă transmitere de date fără a asigura livrarea.
+
+2. TCP Server ascultă conexiuni:
+   - Serverul TCP creează un socket pasiv folosind `socket()` și apoi îl leagă la o anumită adresă și port folosind `bind()`. Acesta așteaptă conexiuni folosind `listen()`, iar atunci când primește o conexiune, utilizează `accept()` pentru a crea un nou socket de comunicare dedicat acelei conexiuni.
+
+3. Primirea datelor prin socket:
+   - După ce conexiunea este stabilită, serverul poate folosi `recv()` pentru a primi date de la client. Această funcție blochează execuția programului până când sunt disponibile date de la client sau până când conexiunea este închisă.
+
+4. Transmiterea datelor prin socket:
+   - Pentru a trimite date, serverul folosește funcția `send()`. Datele pot fi trimise în blocuri mai mici decât dimensiunea totală a datelor, iar apoi procesul se repetă până când toate datele sunt trimise.
+
+5. Prelucrarea mai multor clienți concomitent:
+   - O modalitate de a gestiona mai mulți clienți este să folosești fire de execuție (threads) sau procese separate pentru fiecare conexiune. Acest lucru permite serverului să accepte și să interacționeze cu mai mulți clienți simultan.
+
+6. Închiderea corectă a conexiunii:
+   - Pentru închiderea conexiunii, serverul poate utiliza funcția `close()` pentru a elibera resursele asociate cu socket-ul. Clientul poate face același lucru. Înainte de închidere, se recomandă trimiterea unui mesaj special care să semnaleze cele două părți să încheie corect comunicarea.
+
+Aceste principii de bază sunt fundamentale în programarea cu socket-uri și sunt esențiale pentru înțelegerea modului în care comunicațiile între clienți și servere funcționează la nivelul rețelei.

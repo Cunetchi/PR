@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b2c4492-8ec3-488d-8261-9176cb8003ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab2/Lab2/udp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/udpSocket/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/udpSocket/udpSocket/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/udpSocket2/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/udpSocket2/.idea/.idea.udpSocket2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/udpSocket2/.idea/.idea.udpSocket2/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/udpSocket2/.idea/.idea.udpSocket2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/udpSocket2/udpSocket2/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/pythonProject/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/lab4/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Client/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Client/ConsoleApp1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Client/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Client/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Client/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Client/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Client/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Client/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Client/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Client/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Server/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Server/ConsoleApp1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Server/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Server/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Server/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Server/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Server/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Server/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Server/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Server/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2eqmhOBdt2zwbWtTDHGdbRe22uU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b2c4492-8ec3-488d-8261-9176cb8003ee" name="Changes" comment="" />
+      <created>1712640601173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712640601173</updated>
+      <workItem from="1712640603609" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

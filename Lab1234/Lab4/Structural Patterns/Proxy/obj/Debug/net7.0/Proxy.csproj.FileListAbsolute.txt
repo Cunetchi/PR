@@ -1,0 +1,14 @@
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Proxy/bin/Debug/net7.0/Proxy
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Proxy/bin/Debug/net7.0/Proxy.deps.json
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Proxy/bin/Debug/net7.0/Proxy.runtimeconfig.json
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Proxy/bin/Debug/net7.0/Proxy.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Proxy/bin/Debug/net7.0/Proxy.pdb
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Proxy/obj/Debug/net7.0/Proxy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Proxy/obj/Debug/net7.0/Proxy.AssemblyInfoInputs.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Proxy/obj/Debug/net7.0/Proxy.AssemblyInfo.cs
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Proxy/obj/Debug/net7.0/Proxy.csproj.CoreCompileInputs.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Proxy/obj/Debug/net7.0/Proxy.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Proxy/obj/Debug/net7.0/refint/Proxy.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Proxy/obj/Debug/net7.0/Proxy.pdb
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Proxy/obj/Debug/net7.0/Proxy.genruntimeconfig.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/Structural Patterns/Proxy/obj/Debug/net7.0/ref/Proxy.dll

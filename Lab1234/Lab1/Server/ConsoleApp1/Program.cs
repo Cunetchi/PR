@@ -27,6 +27,7 @@ class Program
 
             Console.WriteLine($"Connection {connectionCount} accepted");
             Console.WriteLine(connection.RemoteEndPoint);
+            
 
             // Start a new thread to handle the connection asynchronously
             _ = Task.Run(() => HandleConnection(connection, connectionCount));
@@ -37,28 +38,28 @@ class Program
     {
         try
         {
-            string text = "";
-
-            do
+            while (true)
             {
-                byte[] buffer = new byte[1024];
-                int bytesReceived = connection.Receive(buffer);
+                string text = "";
 
-                text += Encoding.UTF8.GetString(buffer, 0, bytesReceived);
-            } while (connection.Available > 0);
+                do
+                {
+                    byte[] buffer = new byte[1024];
+                    int bytesReceived = connection.Receive(buffer);
 
-            Console.WriteLine($"Received from Connection {connectionCount}: {text}");
+                    text += Encoding.UTF8.GetString(buffer, 0, bytesReceived);
+                } while (connection.Available > 0);
 
-            byte[] bytesData = Encoding.UTF8.GetBytes("Server received your message");
-            connection.Send(bytesData);
+                Console.WriteLine($"Received from Connection {connectionCount}: {text}");
+
+                byte[] bytesData = Encoding.UTF8.GetBytes("Server received your message");
+                connection.Send(bytesData);
+            }
         }
         catch (Exception ex)
         {
             Console.WriteLine($"Error handling Connection {connectionCount}: {ex.Message}");
         }
-        finally
-        {
-            connection.Close();
-        }
     }
-}
+        
+    }
