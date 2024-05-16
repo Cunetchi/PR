@@ -1,0 +1,15 @@
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab1/Client2/Client2/bin/Debug/net7.0/Client2
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab1/Client2/Client2/bin/Debug/net7.0/Client2.deps.json
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab1/Client2/Client2/bin/Debug/net7.0/Client2.runtimeconfig.json
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab1/Client2/Client2/bin/Debug/net7.0/Client2.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab1/Client2/Client2/bin/Debug/net7.0/Client2.pdb
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab1/Client2/Client2/obj/Debug/net7.0/Client2.csproj.AssemblyReference.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab1/Client2/Client2/obj/Debug/net7.0/Client2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab1/Client2/Client2/obj/Debug/net7.0/Client2.AssemblyInfoInputs.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab1/Client2/Client2/obj/Debug/net7.0/Client2.AssemblyInfo.cs
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab1/Client2/Client2/obj/Debug/net7.0/Client2.csproj.CoreCompileInputs.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab1/Client2/Client2/obj/Debug/net7.0/Client2.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab1/Client2/Client2/obj/Debug/net7.0/refint/Client2.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab1/Client2/Client2/obj/Debug/net7.0/Client2.pdb
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab1/Client2/Client2/obj/Debug/net7.0/Client2.genruntimeconfig.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab1/Client2/Client2/obj/Debug/net7.0/ref/Client2.dll
